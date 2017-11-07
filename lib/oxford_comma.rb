@@ -2,7 +2,7 @@
 #
 # binding.pry
 def oxford_comma(array)
-  array.to_s
+  array.join
 end
 
 def oxford_comma(array)
